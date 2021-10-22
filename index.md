@@ -1,4 +1,9 @@
-你好，欢迎来到我的资料分享页面！
+你来啦，欢迎来到博为峰资料分享小站！
+针对0基础的小白，我整理了一套软件测试资料，总计70G，包含了公开课程、软件测试电子书、视频讲义、软件工具以及大厂软件测试面试宝典等等资料，让你从0基础小白进阶软件测试大神！
+
+为保证连接的持久性，以下压缩包均添加了密码，点击这里获取解压密码
+
+以下是文件目录：
 
 You can use the [editor on GitHub](https://github.com/zhanggaojing12345/zhanggaojing12345.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
